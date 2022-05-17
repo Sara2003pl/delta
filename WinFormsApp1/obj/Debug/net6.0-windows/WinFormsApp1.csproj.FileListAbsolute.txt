@@ -1,0 +1,17 @@
+D:\Witryny\sarka\WinFormsApp1-master\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\Witryny\sarka\WinFormsApp1-master\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\Witryny\sarka\WinFormsApp1-master\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Witryny\sarka\WinFormsApp1-master\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Witryny\sarka\WinFormsApp1-master\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Witryny\sarka\WinFormsApp1-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Witryny\sarka\WinFormsApp1-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\Witryny\sarka\WinFormsApp1-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Witryny\sarka\WinFormsApp1-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Witryny\sarka\WinFormsApp1-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Witryny\sarka\WinFormsApp1-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Witryny\sarka\WinFormsApp1-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Witryny\sarka\WinFormsApp1-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Witryny\sarka\WinFormsApp1-master\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\Witryny\sarka\WinFormsApp1-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Witryny\sarka\WinFormsApp1-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Witryny\sarka\WinFormsApp1-master\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
